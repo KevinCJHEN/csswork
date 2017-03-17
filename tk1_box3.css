@@ -1,0 +1,7 @@
+/* CSS Document */
+	#box3{
+		width:100px; height:100px; background-color:green;
+	}
+	#box3>p{
+		font-size:14px; color:white; font-weight:bold;
+		}
